@@ -1,0 +1,15 @@
+{
+    "token": "process.env.TOKEN",
+    "prefix": "$",
+    
+    "ticket": {
+        "category": "785464391969275904",
+        "roles": "789880935432716289"
+    },
+    "serverStats": {
+        "humans": "",
+        "bots": "",
+        "total": "961368789801394310"
+    },
+    "logs":"961380092964130888"
+}
